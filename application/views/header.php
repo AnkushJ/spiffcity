@@ -39,7 +39,7 @@
 
 <body>
   <header>
-    <div class="container">
+  <div class="container">
     <!--start: Row -->
     <div class="row">
       <!--start: Logo -->
